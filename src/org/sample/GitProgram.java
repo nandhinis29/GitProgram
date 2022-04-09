@@ -1,7 +1,10 @@
 package org.sample;
 
 public class GitProgram {
-
+	private void add3() {
+		System.out.println("add3");
+		}
+		
 	private void add2() {
 	System.out.println("add2");
 	}
